@@ -1,0 +1,29 @@
+#######################################
+# Syntax Coloring
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+CronEvent	KEYWORD1
+Event	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+size	KEYWORD2
+add	KEYWORD2
+set	KEYWORD2
+remove	KEYWORD2
+get	KEYWORD2
+clear	KEYWORD2
+
+cronToMillis KEYWORD2
+getName KEYWORD2
+loop KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
